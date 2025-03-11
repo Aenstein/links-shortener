@@ -1,0 +1,4 @@
+.env
+cmd/.env
+/postgres-data
+main.go
