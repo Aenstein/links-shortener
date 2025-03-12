@@ -1,4 +1,4 @@
 .env
 cmd/.env
 /postgres-data
-main.go
+/main.go
